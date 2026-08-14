@@ -1,0 +1,6 @@
+{
+  "name": "Business Empire: Ultimate",
+  "description": "Deep economic tycoon and business simulator featuring modular architecture, time acceleration, comprehensive financial ledger, offline progression, and multi-asset enterprise management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
